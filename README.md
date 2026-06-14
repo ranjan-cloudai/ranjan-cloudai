@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ranjan
 
-<!--
-**ranjan-cloudai/ranjan-cloudai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Azure Cloud Architect with 16+ years of experience designing and delivering enterprise cloud solutions.
 
-Here are some ideas to get you started:
+## Expertise
+- Azure Architecture
+- Azure OpenAI
+- RAG Solutions
+- Azure AI Search
+- Cloud Migration
+- Landing Zones
+- FinOps
+- Managed Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- Azure Solutions Architect Expert
+- Azure AI Engineer Associate
+- (Add others)
+
+## Featured Projects
+- Azure AI Governance Copilot
+- Enterprise RAG Accelerator
+- Architecture Consultant Agent
+
+## Contact
+LinkedIn: <link>
+Email: <email>
