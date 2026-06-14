@@ -1,4 +1,4 @@
-# Hi, I'm Ranjan
+# Hi, I'm Priyaranjan
 
 Azure Cloud Architect with 16+ years of experience designing and delivering enterprise cloud solutions.
 
@@ -15,7 +15,8 @@ Azure Cloud Architect with 16+ years of experience designing and delivering ente
 ## Certifications
 - Azure Solutions Architect Expert
 - Azure AI Engineer Associate
-- (Add others)
+- Azure Networking
+- Terraform Associate
 
 ## Featured Projects
 - Azure AI Governance Copilot
@@ -23,5 +24,5 @@ Azure Cloud Architect with 16+ years of experience designing and delivering ente
 - Architecture Consultant Agent
 
 ## Contact
-LinkedIn: <link>
-Email: <email>
+LinkedIn: https://www.linkedin.com/in/priyaranjan-chatterjee-49407615/
+Email: priyaranjan.chatterjee10@gmail.com
